@@ -5,7 +5,7 @@ based on the [`buildpack-deps`](https://hub.docker.com/_/buildpack-deps/)
 image, so it will also contain basic programs, such as `curl` and `git`.
 
 ## Usage
-The name of the Docker image is `dsprenkels/clean-lang`. One can use the same commands as with any other image:
+The name of the Docker image is `dsprenkels/clean-lang`. You can use the same commands as with any other image:
 
 ```shell
 # start an ephemeral container and attach to it
